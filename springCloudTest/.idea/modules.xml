@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springCloudTest.iml" filepath="$PROJECT_DIR$/springCloudTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka_server/springcloud_eureka_server.iml" filepath="$PROJECT_DIR$/springcloud_eureka_server/springcloud_eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka_server2/springcloud_eureka_server2.iml" filepath="$PROJECT_DIR$/springcloud_eureka_server2/springcloud_eureka_server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka_server3/springcloud_eureka_server3.iml" filepath="$PROJECT_DIR$/springcloud_eureka_server3/springcloud_eureka_server3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_hystric_ribbon/springcloud_hystric_ribbon.iml" filepath="$PROJECT_DIR$/springcloud_hystric_ribbon/springcloud_hystric_ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_ribbon/springcloud_ribbon.iml" filepath="$PROJECT_DIR$/springcloud_ribbon/springcloud_ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_zuul/springcloud_zuul.iml" filepath="$PROJECT_DIR$/springcloud_zuul/springcloud_zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloue_eureka_feign/springcloue_eureka_feign.iml" filepath="$PROJECT_DIR$/springcloue_eureka_feign/springcloue_eureka_feign.iml" />
+    </modules>
+  </component>
+</project>
